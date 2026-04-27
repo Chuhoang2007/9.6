@@ -9,4 +9,5 @@ public class MainTest {
         // Test đúng: 5 + 5 phải bằng 10
         assertEquals(10, Main.tinhTong(5, 5));
     }
+
 }
